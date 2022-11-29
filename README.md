@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeunwoo&theme=swift)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jihyeunwoo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeunwoo&layout=compact&theme=tokyonight)
